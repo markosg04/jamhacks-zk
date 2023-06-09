@@ -1,0 +1,24 @@
+{
+  "name": "jamhacks-zk",
+  "version": "1.0.0",
+  "description": "Solution for JAMHacks 7 zk workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markosg04/jamhacks-zk.git"
+  },
+  "author": "Markos Georghiades",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markosg04/jamhacks-zk/issues"
+  },
+  "homepage": "https://github.com/markosg04/jamhacks-zk#readme",
+  "dependencies": {
+    "circomlib": "^2.0.5",
+    "circomlibjs": "^0.1.7",
+    "snarkjs": "^0.7.0"
+  }
+}
